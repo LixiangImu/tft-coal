@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lx/tft_tf2/saved_models/traffic/main/TemporalFusionTransformer.ckpt"
+all_model_checkpoint_paths: "/home/lx/tft_tf2/saved_models/traffic/main/TemporalFusionTransformer.ckpt"

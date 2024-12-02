@@ -48,6 +48,7 @@ class InputTypes(enum.IntEnum):
   STATIC_INPUT = 3
   ID = 4  # Single column used as an entity identifier
   TIME = 5  # Single column exclusively used as a time index
+  CATEGORICAL = 6  # Added categorical input type
 
 
 class GenericDataFormatter(abc.ABC):

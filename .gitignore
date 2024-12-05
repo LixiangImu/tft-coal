@@ -11,9 +11,11 @@ models/lstm/*.keras
 models/xgboost/*.json
 
 # 忽略数据文件
-data/featured/*.csv *.log
+data/featured/*.csv 
+data/featured/*.log
 data/raw/*.csv
-data/processed/*.csv *.png
+data/processed/*.csv 
+data/processed/*.png
 
 # 忽略验证文件
 evaluation/
